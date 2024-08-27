@@ -1,0 +1,13 @@
+affine
+cligj
+colormath
+coveralls
+delocate
+numpy
+pre-commit
+pytest
+pytest-cov
+rasterio
+setuptools
+snuggs
+wheel
